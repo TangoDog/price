@@ -1,41 +1,40 @@
-	x
-6	Age
-7	DOB
-12	Documented.Target.Refraction
-13	Holladay.II.Target.chosen
-14	IOL.Power
-15	IOL.Model
-17	presph
-18	precyl
-19	M.axis
-22	prepachy
-23	Axial.Length
-24	Hor.W.t.W
-25	Phakic.Lens.Thickness
-26	Phakic.Anterior.Chamber.Depth
-27	K1
-29	K2
-36	sph6
-37	cyl6
-38	M.axis.1
-41	pachy6
-42	ecd6
-43	Axial.Length.1
-44	Anterior.Chamber.Depth
-45	K1.1
-47	K2.1
-49	X.Calc..Achieved.SE.6
-50	X.Calc..SE.Error
-51	X.Calc..Change.in.Pachy..Preop.to.6.
-54	X12.mo.M.sph
-55	M.cyl
-56	M.axis.2
-59	Pachy.1.year
-60	ECC1.year
-61	Axial.Length.2
-62	Anterior.Chamber.Depth.1
-63	K1.2
-65	K2.2
-67	X.Calc..Achieved.SE.12
-68	X.Calc..SE.Error.12
-69	X.Calc..Change.in.Pachy..Preop.to.12.
+Age
+DOB
+Documented.Target.Refraction
+Holladay.II.Target.chosen
+IOL.Power
+IOL.Model
+presph
+precyl
+M.axis
+prepachy
+Axial.Length
+Hor.W.t.W
+Phakic.Lens.Thickness
+Phakic.Anterior.Chamber.Depth
+K1
+K2
+sph6
+cyl6
+M.axis.1
+pachy6
+ecd6
+Axial.Length.1
+Anterior.Chamber.Depth
+K1.1
+K2.1
+X.Calc..Achieved.SE.6
+X.Calc..SE.Error
+X.Calc..Change.in.Pachy..Preop.to.6.
+X12.mo.M.sph
+M.cyl
+M.axis.2
+Pachy.1.year
+ECC1.year
+Axial.Length.2
+Anterior.Chamber.Depth.1
+K1.2
+K2.2
+X.Calc..Achieved.SE.12
+X.Calc..SE.Error.12
+X.Calc..Change.in.Pachy..Preop.to.12.
